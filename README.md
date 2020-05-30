@@ -2,7 +2,7 @@
 * The backend REST API's needed to support a web application that allows a user to view accounts and subsequently view the transactions on any of the account they hold.
 * The project was developed using Spring REST with Spring Boot. 
 * Database : H2
-* The below functionalities are achieved :
+* The following functionalities are achieved :
                 View Account List,
  View Account Transactions
 
