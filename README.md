@@ -11,3 +11,22 @@
                     # Unit testcases were written for the above functionalities using Junit and Mockito.
                     
                     # Spring Tool Suite tool was used.
+                    Getting Started
+                    Reference Documentation
+
+For further reference, please consider the following sections:
+
+Official Apache Maven documentation
+Spring Boot Maven Plugin Reference Guide
+Spring Web
+Spring Boot DevTools
+Spring Data JPA
+Spring Boot Actuator
+Guides
+The following guides illustrate how to use some features concretely:
+
+Building a RESTful Web Service
+Serving Web Content with Spring MVC
+Building REST services with Spring
+Accessing Data with JPA
+Building a RESTful Web Service with Spring Boot Actuator
