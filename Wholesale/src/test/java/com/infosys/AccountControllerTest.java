@@ -25,7 +25,7 @@ import com.infosys.service.AccountServiceImpl;
 
 @RunWith(SpringRunner.class)
 @WebMvcTest(AccountController.class)
-public class TestAccountController {
+public class AccountControllerTest {
 
 	@Autowired
 	private MockMvc mvc;
